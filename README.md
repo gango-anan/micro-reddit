@@ -17,7 +17,7 @@ To get a local copy up and running follow these simple example steps.
 Make sure you have the most recent versions of Ruby, Node.js, and Yarn installed on your system.
 
 ### Setup
-Clone the repo from the following URL( https://github.com/gango-anan/micro-reddit.git )
+Clone the repo from the following URL(https://github.com/gango-anan/micro-reddit.git)
 ### Install
 Install Rails on your local system by executing the following command on your terminal:
 gem install rails
@@ -41,7 +41,7 @@ Galiwango Ananiya
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/gango-anan/micro-reddit/issues).
 
 ## Show your support
 
@@ -54,5 +54,5 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [MIT](https://github.com/gango-anan/micro-reddit/blob/feature-branch/LICENSE) licensed.
 
